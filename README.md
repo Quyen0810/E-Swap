@@ -80,6 +80,7 @@ Create a `.env.local` file in the root directory:
 ```env
 NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
+AUTH_JWT_SECRET=your_custom_login_token_secret
 ```
 
 ## 📜 Available Scripts
